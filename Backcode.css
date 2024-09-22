@@ -1,0 +1,71 @@
+
+
+#Box1 {
+    border-style: ridge;
+    border-color: black;
+}
+
+.Size1 {
+    padding: 10px 10px;
+}
+
+.Inline1Cen {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    color: rgb(245, 245, 245);
+    background: green;
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    
+}
+.button:hover {
+    background-color: rgb(145, 245, 145);
+    color: rgb(247, 243, 243);
+} 
+
+.Logo{
+    height: 40px;
+    width: 40px;
+}
+.anotherLogoformat {
+    height: 50px;
+    display: flex;
+    justify-content: left;
+
+}
+.Deez{
+text-align: center;
+}
+.BrenLeft{
+    text-align:left ;
+}
+.bernright{
+    text-align: right;
+}
+#div1 {
+    justify-content: center;
+    margin: center;
+    display: flex;
+    align-items: 100hv;
+}
+
+
+
+.Imblack {
+    background-color: #3b3736;
+}
+
+.LeftBack {
+    height: 50px;
+    display: flex;
+    justify-content: right;
+    float: left;
+}
